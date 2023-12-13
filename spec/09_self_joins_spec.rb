@@ -1,5 +1,5 @@
 require 'rspec'
-require '09_self_joins'
+require '09_self_joins.rb'
 
 describe "self-JOIN exercises" do
   describe "num_stops" do
